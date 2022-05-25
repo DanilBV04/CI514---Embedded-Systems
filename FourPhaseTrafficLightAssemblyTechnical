@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T03:53:30.530Z" agent="5.0 (Windows)" etag="g0PkTxkgNqGIu1w_-vSj" version="18.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-25T03:57:30.549Z" agent="5.0 (Windows)" etag="bqF5MctrXVLfHmizHdZ6" version="18.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1829" dy="956" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2195" dy="1147" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -22,25 +22,25 @@
         <mxCell id="fihWlUJn8Ff-zKPuTFYP-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fihWlUJn8Ff-zKPuTFYP-2" target="fihWlUJn8Ff-zKPuTFYP-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fihWlUJn8Ff-zKPuTFYP-2" value="Turn light on pin 4 to on" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fihWlUJn8Ff-zKPuTFYP-2" value="Turn light on PINB 4 to on" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fihWlUJn8Ff-zKPuTFYP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fihWlUJn8Ff-zKPuTFYP-4" target="fihWlUJn8Ff-zKPuTFYP-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fihWlUJn8Ff-zKPuTFYP-4" value="Turn light on pin 5 to on" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fihWlUJn8Ff-zKPuTFYP-4" value="Turn light on PINB 5 to on" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fihWlUJn8Ff-zKPuTFYP-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fihWlUJn8Ff-zKPuTFYP-6" target="fihWlUJn8Ff-zKPuTFYP-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fihWlUJn8Ff-zKPuTFYP-6" value="&lt;div&gt;Turn lights on pin 4 and 5 to off.&lt;/div&gt;&lt;div&gt;Turn light on pin 6 to on.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fihWlUJn8Ff-zKPuTFYP-6" value="&lt;div&gt;Turn lights on PINB 4 and PINB 5 to off.&lt;/div&gt;&lt;div&gt;Turn light on pin 6 to on.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fihWlUJn8Ff-zKPuTFYP-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fihWlUJn8Ff-zKPuTFYP-8" target="fihWlUJn8Ff-zKPuTFYP-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fihWlUJn8Ff-zKPuTFYP-8" value="&lt;div&gt;Turn light on pin 6 off.&lt;/div&gt;&lt;div&gt;Turn light on pin 5 on.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fihWlUJn8Ff-zKPuTFYP-8" value="&lt;div&gt;Turn light on PINB 6 off.&lt;/div&gt;&lt;div&gt;Turn light on PINB 5 on.&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fihWlUJn8Ff-zKPuTFYP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fihWlUJn8Ff-zKPuTFYP-10" target="fihWlUJn8Ff-zKPuTFYP-2">
@@ -51,31 +51,31 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fihWlUJn8Ff-zKPuTFYP-10" value="Turn off light on pin 5 off. Go back to the beginning of the loop." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fihWlUJn8Ff-zKPuTFYP-10" value="Turn off light on PINB 5 off. Go back to the beginning of the loop." style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fihWlUJn8Ff-zKPuTFYP-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fihWlUJn8Ff-zKPuTFYP-14" target="fihWlUJn8Ff-zKPuTFYP-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fihWlUJn8Ff-zKPuTFYP-14" value="Turn light on pin 2 to on" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fihWlUJn8Ff-zKPuTFYP-14" value="Turn light on PINB 2 to on" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fihWlUJn8Ff-zKPuTFYP-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fihWlUJn8Ff-zKPuTFYP-15" target="fihWlUJn8Ff-zKPuTFYP-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fihWlUJn8Ff-zKPuTFYP-15" value="Turn light off on pin 2. Turn on light on pin 1." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fihWlUJn8Ff-zKPuTFYP-15" value="Turn light off on PINB 2. Turn on light on PINB 1." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fihWlUJn8Ff-zKPuTFYP-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fihWlUJn8Ff-zKPuTFYP-19" target="fihWlUJn8Ff-zKPuTFYP-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fihWlUJn8Ff-zKPuTFYP-19" value="Turn off light on pin 1. Turn on light on pin 0." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fihWlUJn8Ff-zKPuTFYP-19" value="Turn off light on PINB 1. Turn on light on PINB 0." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fihWlUJn8Ff-zKPuTFYP-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fihWlUJn8Ff-zKPuTFYP-21" target="fihWlUJn8Ff-zKPuTFYP-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fihWlUJn8Ff-zKPuTFYP-21" value="Turn on light on pin 1. Light on pin 0 must still be on. " style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fihWlUJn8Ff-zKPuTFYP-21" value="Turn on light on PINB 1. Light on PINB 0 must still be on. " style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fihWlUJn8Ff-zKPuTFYP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="fihWlUJn8Ff-zKPuTFYP-23" target="fihWlUJn8Ff-zKPuTFYP-14">
@@ -86,7 +86,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fihWlUJn8Ff-zKPuTFYP-23" value="Turn off both lights on pins 0 and 1. Go back to the beginning of the loop" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="fihWlUJn8Ff-zKPuTFYP-23" value="Turn off both lights on PINB 0 and PINB 1. Go back to the beginning of the loop" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fihWlUJn8Ff-zKPuTFYP-27" value="Traffic light 1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
